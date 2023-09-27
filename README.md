@@ -22,7 +22,7 @@ Enjoy.
 ## Setup
 
 You will now need to setup the two remote sources (overleaf and GitHub), so that you can push and pull to/from them.
-
+```git remote overleaf https://git.overleaf.com/65113somenumber```
 
 ## Unlicense
 
