@@ -23,6 +23,11 @@ Enjoy.
 You will now need to setup the two remote sources (overleaf and GitHub), so that you can push and pull to/from them.
 
 
+## Unlicense
+
+This guide is available under The Unlicense. In other words you can do whatever you are pleased with it.
+
+
 
 
 ## Regular Workflow
