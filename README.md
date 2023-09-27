@@ -13,9 +13,10 @@ Enjoy.
 
 ## Starting point
 
-- an empty repo on your GitHub
-- a project in Overleaf (in my example i just had a main.tex and a library.bib)
-- 
+- premium Overleaf
+- git installed locally
+- an **empty GitHub repo**
+- a **project in Overleaf** (in my example i just had a main.tex and a library.bib)
 
 
 ## Setup
