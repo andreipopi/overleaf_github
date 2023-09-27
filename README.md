@@ -22,7 +22,14 @@ Enjoy.
 ## Setup
 
 You will now need to setup the two remote sources (overleaf and GitHub), so that you can push and pull to/from them.
+
+- add remote source for overleaf
+  
 ```git remote overleaf https://git.overleaf.com/65113somenumber```
+
+- add remote source for your empty GitHub repo
+
+  
 
 ## Unlicense
 
