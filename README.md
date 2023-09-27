@@ -13,8 +13,8 @@ Enjoy.
 
 ## Starting point
 
-- create a new empty repo on your github
-- create a new project in overleaf (in my example i just had a main.tex and a library.bib)
+- an empty repo on your GitHub
+- a project in Overleaf (in my example i just had a main.tex and a library.bib)
 - 
 
 
